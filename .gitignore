@@ -1,5 +1,8 @@
 credentials.py
 credentials.py.save
 twcreds.ini
+twitterbot_retweet.py
+twitterbot_textfile.py
+
 
 __pycache__
